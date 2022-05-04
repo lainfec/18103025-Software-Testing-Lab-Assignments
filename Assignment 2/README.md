@@ -6,7 +6,7 @@ Created Use-case and Sequence diagram using PLantUML tool.
 
 ### Diagram
 
-![alt text](https://github.com/errpv78/Software-testing/blob/main/Assignment1/SequenceDiagram.png?raw=true)
+![alt text](https://github.com/lainfec/18103025-Software-Testing-Lab-Assignments/blob/main/Assignment%201/SequenceDiagram.png)
 
 ### Code
 ```
@@ -42,7 +42,7 @@ B->A: Caption to Audio
 ## 2. Use-case Diagram using PlantUML
 
 ### Diagram
-![alt text](https://github.com/errpv78/Software-testing/blob/main/Assignment1/UseCaseDiagram.png?raw=true)
+![alt text](https://github.com/lainfec/18103025-Software-Testing-Lab-Assignments/blob/main/Assignment%201/UseCaseDiagram.png?raw=true)
 
 ### Code
 
